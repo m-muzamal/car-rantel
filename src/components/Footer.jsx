@@ -35,9 +35,9 @@ function Footer() {
                   style={{ fontSize: "14px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://xpeedstudio.com/"
+                  href="https://muzamal.netlify.app/"
                 >
-                  Design by XpeedStudio
+                  Design by M.Muzammal
                 </a>
               </li>
             </ul>
@@ -45,7 +45,7 @@ function Footer() {
             <ul className="footer-content__2">
               <li>Company</li>
               <li>
-                <a href="#home">New York</a>
+                <a href="#home">Lahore</a>
               </li>
               <li>
                 <a href="#home">Careers</a>

@@ -25,7 +25,7 @@ function Contact() {
               </a>
               <a href="/">
                 <IconLocation />
-                &nbsp; Belgrade, Serbia
+                &nbsp; Lahore, Pakistan
               </a>
             </div>
             <div className="contact-div__form">
@@ -33,7 +33,7 @@ function Contact() {
                 <label>
                   Full Name <b>*</b>
                 </label>
-                <input type="text" placeholder='E.g: "Joe Shmoe"'></input>
+                <input type="text" placeholder='E.g: "M. MZML"'></input>
 
                 <label>
                   Email <b>*</b>

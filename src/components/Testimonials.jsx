@@ -1,6 +1,6 @@
 import { IconQuote } from "@tabler/icons-react";
-import Img2 from "../images/testimonials/pfp1.jpg";
-import Img3 from "../images/testimonials/pfp2.jpg";
+import Img2 from "../images/testimonials/user1.jpg";
+import Img3 from "../images/testimonials/user2.png";
 
 function Testimonials() {
   return (
@@ -33,8 +33,8 @@ function Testimonials() {
                   <div className="all-testimonials__box__name__profile">
                     <img src={Img2} alt="user_img" />
                     <span>
-                      <h4>Parry Hotter</h4>
-                      <p>Belgrade</p>
+                      <h4>Muhammad Muzammal</h4>
+                      <p>Toba Tek Singh</p>
                     </span>
                   </div>
                 </div>
@@ -52,8 +52,8 @@ function Testimonials() {
                   <div className="all-testimonials__box__name__profile">
                     <img src={Img3} alt="user_img" />
                     <span>
-                      <h4>Ron Rizzly</h4>
-                      <p>Novi Sad</p>
+                      <h4>Zain-ul-Abideen</h4>
+                      <p>Khushab</p>
                     </span>
                   </div>
                 </div>
